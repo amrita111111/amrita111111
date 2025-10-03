@@ -1,3 +1,6 @@
+
+<img src="https://share.google/images/UXxjkfemWNgLjeEEN" align="right" width="300" />
+
 <h1 align="center">Hi 👋, I'm Amrita Bera</h1>
 <h3 align="center">A passionate developer</h3>
 
@@ -25,5 +28,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
+<img src="https://skillicons.dev/icons?i=python,django,html,css,js,react,git,github,vscode,tensorflow,sklearn" />
 </p>
 
