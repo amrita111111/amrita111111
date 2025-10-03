@@ -9,7 +9,6 @@
 - 🔭 I’m currently working on **Python & Django Projects**
 - 🌱 I’m currently learning **REST APIs**
 - 👯 I’m looking to collaborate on **Open Source & Web Dev Projects**
-- 🤝 I’m looking for help with **Backend Development**
 - 💬 Ask me about **Python, Django, Web Dev**
 - 📫 How to reach me: **amritabera08@gmail.com**
 
