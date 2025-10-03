@@ -28,6 +28,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
-<img src="https://skillicons.dev/icons?i=python,django,html,css,js,react,git,github,vscode,tensorflow,sklearn" />
+<img src="https://skillicons.dev/icons?i=vscode,tensorflow,sklearn" />
 </p>
 
